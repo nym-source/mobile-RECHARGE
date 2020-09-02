@@ -1,0 +1,4 @@
+C:\Users\carry\Desktop\mobile recharge\mobile recharge\bin\mobile recharge.dll
+C:\Users\carry\Desktop\mobile recharge\mobile recharge\bin\mobile recharge.pdb
+C:\Users\carry\Desktop\mobile recharge\mobile recharge\obj\Debug\mobile recharge.dll
+C:\Users\carry\Desktop\mobile recharge\mobile recharge\obj\Debug\mobile recharge.pdb

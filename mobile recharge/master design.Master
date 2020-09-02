@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master design.master.cs" Inherits="mobile_recharge.master_design" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            z-index: 1;
+            left: 10px;
+            top: 15px;
+            position: absolute;
+            width: 216px;
+            height: 75px;
+        }
+        .auto-style2 {
+            z-index: 1;
+            left: 222px;
+            top: 14px;
+            position: absolute;
+            height: 76px;
+            width: 1216px;
+            background-color: #003366;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="auto-style2">
+        </div>
+        <asp:Image ID="Image1" runat="server" CssClass="auto-style1" ImageUrl="~/images/page1..png" />
+    </form>
+</body>
+</html>
