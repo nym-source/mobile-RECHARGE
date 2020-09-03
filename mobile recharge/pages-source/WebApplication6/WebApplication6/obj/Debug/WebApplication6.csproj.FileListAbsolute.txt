@@ -1,0 +1,15 @@
+c:\users\pc\documents\visual studio 2012\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+c:\users\pc\documents\visual studio 2012\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+c:\users\pc\documents\visual studio 2012\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+c:\users\pc\documents\visual studio 2012\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\carry\Documents\Visual Studio 2012\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\carry\Documents\Visual Studio 2012\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\carry\Documents\Visual Studio 2012\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\carry\Documents\Visual Studio 2012\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\carry\Documents\Visual Studio 2012\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\carry\Desktop\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\carry\Desktop\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\carry\Desktop\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\carry\Desktop\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\carry\Desktop\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb

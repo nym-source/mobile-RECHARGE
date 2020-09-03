@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication8.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>mobilerecharge project uptec</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            z-index: 1;
+            left: 100px;
+            top: 32px;
+            position: absolute;
+        }
+        .auto-style2 {
+            z-index: 1;
+            left: 459px;
+            top: 269px;
+            position: absolute;
+        }
+        .auto-style3 {
+            z-index: 1;
+            left: 95px;
+            top: 116px;
+            position: absolute;
+            height: 92px;
+            width: 570px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Image ID="Image1" runat="server" CssClass="auto-style1" ImageUrl="~/page1..png" />
+        <asp:Button ID="Button1" runat="server" CssClass="auto-style2" OnClick="Button1_Click" Text="Button" />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <asp:BulletedList ID="BulletedList1" runat="server" CssClass="auto-style3">
+            <asp:ListItem>home</asp:ListItem>
+            <asp:ListItem>exit</asp:ListItem>
+            <asp:ListItem>neme</asp:ListItem>
+        </asp:BulletedList>
+    </div>
+    </form>
+</body>
+</html>

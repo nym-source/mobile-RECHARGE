@@ -1,0 +1,9 @@
+﻿.p1 {
+    border-color:green;border-width:15px;
+    z-index: 1;
+    left: 514px;
+    top: 370px;
+    position: absolute;
+    height: 545px;
+    width: 1183px;background-color:red;border-radius:70px;
+}

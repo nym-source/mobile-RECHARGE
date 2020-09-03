@@ -1,0 +1,5 @@
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

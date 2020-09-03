@@ -1,0 +1,5 @@
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\carry\documents\visual studio 2012\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
